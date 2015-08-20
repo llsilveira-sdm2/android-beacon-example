@@ -123,7 +123,7 @@
                 android:textStyle="bold" />
 
             <TextView
-                android:id="@+id/rssiTextViewTextView"
+                android:id="@+id/rssiTextView"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textSize="20dp" />
