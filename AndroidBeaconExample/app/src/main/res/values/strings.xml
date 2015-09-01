@@ -4,8 +4,12 @@
 
     <string name="lbl_status">Status:</string>
     <string name="lbl_scanning">Scanning:</string>
-    <string name="lbl_frametype">Frame Type:</string>
+    <string name="lbl_rawdata">Raw Data:</string>
+    <string name="lbl_ibeaconprefix">iBeacon Prefix:</string>
     <string name="lbl_uuid">UUID:</string>
+    <string name="lbl_majornumber">Major Number:</string>
+    <string name="lbl_minornumber">Minor Number:</string>
+    <string name="lbl_txpower">Tx Power:</string>
     <string name="lbl_rssi">RSSI:</string>
 
 
@@ -14,8 +18,6 @@
 
     <string name="txt_scanning_active">Active</string>
     <string name="txt_scanning_inactive">Inactive</string>
-
-    <string name="txt_frametype_uuid">UUID</string>
 
     <string name="btn_open_moodle">Open Moodle</string>
 </resources>
